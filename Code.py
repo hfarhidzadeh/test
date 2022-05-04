@@ -1,3 +1,5 @@
 print("hello word")
 print("new update to dev branch")
 print("final update")
+print("update master")
+print("final update for master")
